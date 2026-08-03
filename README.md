@@ -1,7 +1,5 @@
 # Portfolio Project (Data Analysis): Bank Loan Lending Data Analytics.
-### Arnav Chaturvedi
-### Project Role: Data Analyst – Financial Bank.
-
+### Krishna Maheshwari
 
 The Tableau Dashboard. Please visit my Tableau Public account.
 Use CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to open in a new browser tab. 
